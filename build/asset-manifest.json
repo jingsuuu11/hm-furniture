@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/HM-furniture-e-commerce/static/css/main.7d4a19f0.css",
-    "main.js": "/HM-furniture-e-commerce/static/js/main.f84cad10.js",
-    "static/media/slick.svg": "/HM-furniture-e-commerce/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/HM-furniture-e-commerce/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/HM-furniture-e-commerce/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/HM-furniture-e-commerce/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/HM-furniture-e-commerce/index.html",
-    "main.7d4a19f0.css.map": "/HM-furniture-e-commerce/static/css/main.7d4a19f0.css.map",
-    "main.f84cad10.js.map": "/HM-furniture-e-commerce/static/js/main.f84cad10.js.map"
+    "main.css": "/jingsuuu11/hm-furniture/static/css/main.e4637ad5.css",
+    "main.js": "/jingsuuu11/hm-furniture/static/js/main.9470ebff.js",
+    "static/media/slick.svg": "/jingsuuu11/hm-furniture/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/jingsuuu11/hm-furniture/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/jingsuuu11/hm-furniture/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/jingsuuu11/hm-furniture/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/jingsuuu11/hm-furniture/index.html",
+    "main.e4637ad5.css.map": "/jingsuuu11/hm-furniture/static/css/main.e4637ad5.css.map",
+    "main.9470ebff.js.map": "/jingsuuu11/hm-furniture/static/js/main.9470ebff.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d4a19f0.css",
-    "static/js/main.f84cad10.js"
+    "static/css/main.e4637ad5.css",
+    "static/js/main.9470ebff.js"
   ]
 }
