@@ -15,7 +15,7 @@ import { products } from '../data'
 const Home = ({ products}) => {
   return (
 
-     <Helmet title="HM Furniture">
+<>
         <Announcement />
       <Header/>
         <Slider/>
@@ -23,7 +23,7 @@ const Home = ({ products}) => {
       {/* <FlashDeals products={products} /> */}
         <Newsletter />
         <Footer />
-    </Helmet>
+    </>
     
   )
 }
