@@ -18,8 +18,8 @@ const Home = ({ products}) => {
      <Helmet title="HM Furniture">
         <Announcement />
       <Header/>
-        <Slider/>
-        <Categories />
+        {/* <Slider/>
+        <Categories /> */}
       {/* <FlashDeals products={products} /> */}
         <Newsletter />
         <Footer />
