@@ -2,7 +2,6 @@ import { loginFailure, loginStart, loginSuccess } from "./userRedux";
 import { publicRequest } from "../requestMethod";
 import { USER_REGISTER_FAIL, USER_REGISTER_REQUEST, USER_REGISTER_SUCCESS } from "../constants/user.constants";
 import axios from "axios";
-import { isAsyncThunkAction } from "@reduxjs/toolkit";
 
 export const login = async (dispatch, user) =>  {
     dispatch(loginStart());
@@ -27,7 +26,7 @@ export const register = (username, email, password) => async (dispatch) => {
         };
 
         const {data} = axios.post (
-            "https://hmfurniture.herokuapp.com//api/auth/register",
+            "https://hmfurniture.herokuapp.com/auth/register",
             {username, email, password},
             config
         );
